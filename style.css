@@ -247,6 +247,11 @@ ul {
   align-items: flex-start;
 }
 
+.footer div i {
+  margin-right: 10px;
+  margin-top: -2px;
+}
+
 .footer ul {
   display: flex;
   flex-wrap: wrap;
