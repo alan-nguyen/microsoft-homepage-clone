@@ -125,3 +125,11 @@ ul {
   color: #0067b8;
   font-weight: bold;
 }
+
+.home-cards a:hover i {
+  margin-left: 10px;
+}
+
+.home-cards a:hover {
+  border-bottom: 2px solid #0067b8;
+}
