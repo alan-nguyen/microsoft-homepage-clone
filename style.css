@@ -212,3 +212,11 @@ ul {
 .links li {
   line-height: 2.8;
 }
+
+.links li a {
+  padding-bottom: 2px;
+}
+
+.links li a:hover {
+  border-bottom: 2px solid #616161;
+}
