@@ -45,6 +45,10 @@ ul {
   display: flex;
 }
 
+.main-nav ul li {
+  padding: 0 10px;
+}
+
 .main-nav ul.main-menu {
   flex: 1;
   margin-left: 20px;
