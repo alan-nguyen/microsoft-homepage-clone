@@ -157,7 +157,8 @@ ul {
   padding: 50px 0 0 30px;
 }
 
-.xbox p {
+.xbox p,
+.carbon p {
   margin: 10px 0 20px;
 }
 
