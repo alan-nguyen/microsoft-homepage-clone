@@ -242,3 +242,8 @@ ul {
   display: flex;
   flex-wrap: wrap;
 }
+
+.footer li {
+  margin-right: 30px;
+  margin-bottom: 20p;
+}
