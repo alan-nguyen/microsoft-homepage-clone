@@ -102,3 +102,9 @@ ul {
 .showcase .btn {
   margin-top: 20px;
 }
+
+/* Home cards */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
