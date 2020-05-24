@@ -81,6 +81,11 @@ ul {
   color: #fff;
 }
 
+.dark .btn {
+  background: #f4f4f4;
+  color: #333;
+}
+
 /* Showcase */
 .showcase {
   width: 100%;
