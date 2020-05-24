@@ -278,4 +278,8 @@ ul {
   .carbon .content {
     width: 85%;
   }
+
+  .links .links-inner {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
