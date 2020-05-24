@@ -37,6 +37,10 @@ ul {
   font-size: 13px;
 }
 
+.main-nav .logo {
+  width: 110px;
+}
+
 .main-nav ul {
   display: flex;
 }
