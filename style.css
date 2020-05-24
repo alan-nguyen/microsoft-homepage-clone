@@ -158,3 +158,8 @@ ul {
   height: 350px;
   background: url('./img/carbon.jpg') no-repeat center center/cover;
 }
+
+.carbon .content {
+  width: 55%;
+  padding: 100px 0 0 30px;
+}
