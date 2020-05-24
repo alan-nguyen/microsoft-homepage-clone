@@ -181,3 +181,11 @@ ul {
   justify-content: flex-start;
   margin: 30px 0 30px;
 }
+
+.follow * {
+  margin-right: 10px;
+}
+
+.follow img:hover {
+  opacity: 0.85;
+}
