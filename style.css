@@ -77,6 +77,10 @@ ul {
   opacity: 0.9;
 }
 
+.dark {
+  color: #fff;
+}
+
 /* Showcase */
 .showcase {
   width: 100%;
