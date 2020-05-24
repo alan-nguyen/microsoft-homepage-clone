@@ -294,6 +294,10 @@ ul {
     transform: translate(-500px);
   }
 
+  .main-nav ul.main-menu.show {
+    transform: translate(-20px);
+  }
+
   .home-cards {
     grid-template-columns: repeat(2, 1fr);
   }
