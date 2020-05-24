@@ -310,6 +310,7 @@ ul {
 
   .main-nav ul.main-menu.show {
     transform: translate(-20px);
+    transition: transform 0.5s ease-in-out;
   }
 
   .home-cards {
